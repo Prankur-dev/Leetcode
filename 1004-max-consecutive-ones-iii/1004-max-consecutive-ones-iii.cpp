@@ -12,8 +12,9 @@ public:
                     first++;
                 }
             }
-                len=max(len,sec-first+1);
-                sec++;
+            sec++;
+                len=max(len,sec-first);
+                
             
         }
         return len;
