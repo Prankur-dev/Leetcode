@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prankur-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Prankur-dev/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
