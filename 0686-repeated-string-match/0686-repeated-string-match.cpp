@@ -53,7 +53,7 @@ int KMP_MATCH(string str1,string str2){
         }
         if(KMP_MATCH(temp,b)==1)
         return repeat;
-        if(KMP_MATCH(temp+a,b)==1)
+       else if(KMP_MATCH(temp+a,b)==1)
         return repeat +1;
 
         return -1;
