@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prankur-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Prankur-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prankur-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Prankur-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Prankur-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prankur-dev/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -134,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prankur-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
