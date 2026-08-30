@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prankur-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Prankur-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Prankur-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prankur-dev/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
