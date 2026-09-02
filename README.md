@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Prankur-dev/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prankur-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prankur-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Prankur-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [0881-boats-to-save-people](https://github.com/Prankur-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prankur-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Prankur-dev/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prankur-dev/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
@@ -168,9 +171,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Prankur-dev/Leetcode/tree/master/1260-shift-2d-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
