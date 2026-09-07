@@ -1,27 +1,26 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
+        int n=nums.size();
+        int gola_idx=-1;
 
-        // Step 1: Find the first decreasing element from right
-        int i = n - 2;
-
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-
-        // Step 2: Find element just greater than nums[i]
-        if (i >= 0) {
-            int j = n - 1;
-
-            while (nums[j] <= nums[i]) {
-                j--;
+        for(int i=n-1;i>0;i--){
+            if(nums[i]>nums[i-1]){
+                gola_idx=i-1;
+                break;
             }
-
-            swap(nums[i], nums[j]);
         }
-
-        // Step 3: Reverse the remaining part
-        reverse(nums.begin() + i + 1, nums.end());
+       if(gola_idx!=-1){
+        int swap_idx=gola_idx;
+        for(int j=n-1;j>=gola_idx+1;j--){
+            if(nums[j]>nums[gola_idx]){
+                swap_idx=j;
+                break;
+            }
+        }
+       swap(nums[swap_idx],nums[gola_idx]);
+       
+    }
+      reverse(nums.begin()+gola_idx+1,nums.end());
     }
 };
