@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prankur-dev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prankur-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prankur-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prankur-dev/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Prankur-dev/Leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Prankur-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prankur-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prankur-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
