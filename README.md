@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prankur-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Prankur-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Prankur-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prankur-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0881-boats-to-save-people](https://github.com/Prankur-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prankur-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Prankur-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Prankur-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Prankur-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
