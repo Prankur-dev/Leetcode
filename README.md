@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prankur-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prankur-dev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prankur-dev/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Prankur-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Prankur-dev/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prankur-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prankur-dev/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prankur-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prankur-dev/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Prankur-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Prankur-dev/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0229-majority-element-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Prankur-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
