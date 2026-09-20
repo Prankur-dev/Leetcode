@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Prankur-dev/Leetcode/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prankur-dev/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prankur-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prankur-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prankur-dev/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prankur-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prankur-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
