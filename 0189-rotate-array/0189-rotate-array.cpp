@@ -6,6 +6,7 @@ public:
         return;
 
         k=k%n;
+
         int i=0,j=n-1;
         while(i<j){
             swap(nums[i],nums[j]);
@@ -13,19 +14,17 @@ public:
             j--;
         }
 
-         i=0,j=k-1;
+        i=0,j=k-1;
         while(i<j){
             swap(nums[i],nums[j]);
             i++;
             j--;
         }
-         i=k,j=n-1;
+        i=k;j=n-1;
         while(i<j){
             swap(nums[i],nums[j]);
             i++;
             j--;
         }
-
-        
     }
 };
