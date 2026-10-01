@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Prankur-dev/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Prankur-dev/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Prankur-dev/Leetcode/tree/master/1927-sum-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prankur-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prankur-dev/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Prankur-dev/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Prankur-dev/Leetcode/tree/master/0686-repeated-string-match) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prankur-dev/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Prankur-dev/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Prankur-dev/Leetcode/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prankur-dev/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prankur-dev/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prankur-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Prankur-dev/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/Prankur-dev/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Prankur-dev/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prankur-dev/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
