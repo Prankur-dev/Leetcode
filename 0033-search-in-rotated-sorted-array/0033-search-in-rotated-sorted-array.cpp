@@ -1,28 +1,47 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int s=0,e=nums.size()-1;
-        
+        //step 1 find pivot index
+        int n=nums.size();
+        int s=0,e=n-1;
+        int pivot=-1;
+        while(s<e){
+            int mid=s+(e-s)/2;
+            if(nums[mid]>nums[e]){
+                s=mid+1;
+            }
+            else {
+                e=mid;
+            }
+
+        }
+        pivot=s;
+
+        // step2 apply bs on left side
+        s=0,e=pivot-1;
         while(s<=e){
             int mid=s+(e-s)/2;
             if(nums[mid]==target){
                 return mid;
             }
-            else if(nums[mid]>nums[e]){
-                if(target>=nums[s] && target<nums[mid]){
-                    e=mid-1;
-                }
-                else{
-                    s=mid+1;
-                }
+            else if(nums[mid]>target){
+                e=mid-1;                
             }
             else{
-                if(target>nums[mid] && target<=nums[e]){
-                    s=mid+1;
-                }
-                else{
-                    e=mid-1;
-                }
+                s=mid+1;
+            }
+        }
+        s=pivot,e=n-1;
+        while(s<=e){
+            int mid=s+(e-s)/2;
+            if(nums[mid]==target){
+                return mid;
+            }
+            else if(nums[mid]>target){
+                e=mid-1;
+            }
+            else{
+                s=mid+1;
             }
         }
         return -1;
