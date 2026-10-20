@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+    // create a lps array 
     void lps(vector<int>&vec1,vector<int>&lpsArr){
         int n=vec1.size();
         int pre=0,suff=1;
@@ -20,7 +20,7 @@ public:
             }
         }
     }
-
+    // kmp seraching
     bool KMPSearch(vector<int>&vec1,vector<int>&text){
         int n=vec1.size();
         int m=text.size();
