@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Prankur-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prankur-dev/Leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Prankur-dev/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prankur-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prankur-dev/Leetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/Prankur-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prankur-dev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prankur-dev/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Prankur-dev/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Prankur-dev/Leetcode/tree/master/0704-binary-search) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prankur-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prankur-dev/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prankur-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prankur-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Prankur-dev/Leetcode/tree/master/3903-smallest-stable-index-i) |
