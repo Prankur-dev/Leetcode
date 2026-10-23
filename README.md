@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prankur-dev/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prankur-dev/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prankur-dev/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prankur-dev/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prankur-dev/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prankur-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Prankur-dev/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Prankur-dev/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Prankur-dev/Leetcode/tree/master/1927-sum-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prankur-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prankur-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prankur-dev/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prankur-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prankur-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prankur-dev/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prankur-dev/Leetcode/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
