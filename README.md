@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prankur-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Prankur-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prankur-dev/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/Prankur-dev/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prankur-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prankur-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prankur-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prankur-dev/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Prankur-dev/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
