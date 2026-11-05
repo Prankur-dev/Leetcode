@@ -1,22 +1,23 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        int count=0;
-        for(int i=0;i<arr1.size();i++){
-        bool validval=true;
-            for(int j=0;j<arr2.size();j++){
-                if(abs(arr1[i]-arr2[j])<=d){
-                    validval=false;
-                    break;
-                }
-                else{
-                    validval=true;
-                }
+        int n=arr1.size();
+        int m=arr2.size();
+        int cnt=0;
+        sort(arr2.begin(),arr2.end());
+        for(int i=0;i<n;i++){
+            int j=lower_bound(arr2.begin(),arr2.end(),arr1[i])-arr2.begin();
+            if(j==0){
+                cnt+=(arr2[0]-arr1[i])>d;
             }
-            if(validval){
-            count++;
+            else if(j>=m){
+                cnt+=(arr1[i]-arr2[m-1])>d;
             }
+            else{
+                cnt+=(arr2[j]-arr1[i]>d) && (arr1[i]-arr2[j-1]>d);
+            }
+
         }
-        return count;
+        return cnt;
     }
 };
