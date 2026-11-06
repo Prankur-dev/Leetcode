@@ -1,37 +1,29 @@
 class Solution {
 public:
 
-    void parenthesis(int n,int left, int right, vector<string>&ans, string &temp){
-        // when the condition stops(Base Condition)
-        // if(left ==n && right==n){
-        //     ans.push_back(temp);
-        //     return;
-        // }
-        if(left+right ==2*n){
+    void  generateParenth(int n,int left,int right,string &temp,vector<string>&ans){
+        //base condition
+        if(left==n && right==n){
             ans.push_back(temp);
             return;
         }
-
-        // Add left parenthesis
         if(left<n){
             temp.push_back('(');
-            parenthesis(n,left+1,right,ans,temp);
+            generateParenth(n,left+1,right,temp,ans);
             temp.pop_back();
         }
 
-        // add the right parenthesis
-
-        if(right<left){
-            temp.push_back(')');
-            parenthesis(n,left,right+1,ans,temp);
-            temp.pop_back();
+         if(right<left){
+             temp.push_back(')');
+             generateParenth(n,left,right+1,temp,ans);
+             temp.pop_back();
         }
     }
-
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
         string temp;
-        parenthesis(n,0,0,ans,temp);
+        vector<string>ans;
+        int left,right;
+        generateParenth(n,0,0,temp,ans);
         return ans;
     }
 };
