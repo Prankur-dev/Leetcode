@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Prankur-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Prankur-dev/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prankur-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Prankur-dev/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prankur-dev/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Prankur-dev/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prankur-dev/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prankur-dev/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Prankur-dev/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Prankur-dev/Leetcode/tree/master/0078-subsets) |
 ## Newton's Method
 |  |
 | ------- |
