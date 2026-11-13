@@ -1,33 +1,22 @@
 
 class Solution {
 public:
-
-    int findLength(ListNode*head){
-        int l=0;
-        while(head){
-            head=head->next;
-            l++;
-        }
-        return l;
-    }
     ListNode* swapNodes(ListNode* head, int k) {
-        int L=findLength(head);
-        int k1=k;
-        ListNode*Node1=head;
-        while(k1>1){
-            Node1=Node1->next;
-            k1--;
+        ListNode*P1=NULL;
+        ListNode*P2=NULL;
+        ListNode*temp=head;
+        while(temp){
+            if(P2!=NULL){
+                P2=P2->next;
+            }
+            k--;
+            if(k==0){
+                P1=temp;
+                P2=head;
+            }
+            temp=temp->next;
         }
-
-        int k2=L-k+1;
-        ListNode*Node2=head;
-        while(k2>1){
-            Node2=Node2->next;
-            k2--;
-        }
-
-        swap(Node1->val,Node2->val);
-
+        swap(P1->val,P2->val);
         return head;
     }
 };
