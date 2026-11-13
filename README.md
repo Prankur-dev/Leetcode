@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Prankur-dev/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prankur-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prankur-dev/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Prankur-dev/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prankur-dev/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prankur-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Prankur-dev/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Prankur-dev/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Prankur-dev/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Prankur-dev/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prankur-dev/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
