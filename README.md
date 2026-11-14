@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prankur-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prankur-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Prankur-dev/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prankur-dev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Prankur-dev/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prankur-dev/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prankur-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Prankur-dev/Leetcode/tree/master/0901-online-stock-span) |
 ## Quicksort
 |  |
 | ------- |
@@ -541,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prankur-dev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Prankur-dev/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Prankur-dev/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
