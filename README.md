@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Prankur-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prankur-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prankur-dev/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Prankur-dev/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Prankur-dev/Leetcode/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/Prankur-dev/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prankur-dev/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prankur-dev/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Prankur-dev/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Prankur-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Prankur-dev/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Prankur-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prankur-dev/Leetcode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prankur-dev/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prankur-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prankur-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Prankur-dev/Leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Prankur-dev/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Prankur-dev/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prankur-dev/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prankur-dev/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/Prankur-dev/Leetcode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Prankur-dev/Leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prankur-dev/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Prankur-dev/Leetcode/tree/master/1922-count-good-numbers) |
